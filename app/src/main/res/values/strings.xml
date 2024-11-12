@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Smart City Traveller</string>
+
+    <!--  city choices  -->
+    <string-array name="cities">
+        <item>Lucknow</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+        <item>agra</item>
+        <item>noida</item>
+        <item>delhi</item>
+        <item>dehradun</item>
+        <item>Hyderabad</item>
+        <item>Srinagar</item>
+    </string-array>
+
+    <!--  Foursquare API auth Id  -->
+    <string name="AUTH_ID">fsq3UmXQSSxZeOa9wG7PRoO1mbH48EaaXQ/BtopgE+z8YR4=</string>
+    <string name="title_activity_location">Map</string>
+
+
+</resources>
